@@ -61,7 +61,7 @@
 
   <!-- Window Header Title -->
   <text x="425" y="26" fill="#8e8e93" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="12px" font-weight="500" text-anchor="middle">
-    yahia@macbook-pro: ~/developer/applied-ai (zsh)
+    yahia@macbook-pro: ~/creative-engineering-hub (zsh)
   </text>
 
   <!-- LINE 1 (y = 85) -->
@@ -76,31 +76,31 @@
   <!-- LINE 2 (y = 128) -->
   <text x="32" y="128" class="sf-mono line2">
     <tspan fill="#636366">[SYSTEM]: </tspan>
-    <tspan fill="#f5f5f7" font-weight="600">Applied AI &amp; Full-Stack Software Engineer</tspan>
+    <tspan fill="#f5f5f7" font-weight="600">Applied AI &amp; Full-Stack Engineer | Brand &amp; Creative Director</tspan>
   </text>
 
   <!-- LINE 3 (y = 170) -->
   <text x="32" y="170" class="sf-mono line3">
     <tspan fill="#636366">[MODULES]: </tspan>
-    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Autonomous AI Agents  </tspan>
-    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Next.js / Full-Stack  </tspan>
-    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Adobe Creative Suite</tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">AI Agents &amp; Full-Stack  </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Brand Identity &amp; Print  </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Video &amp; Motion</tspan>
   </text>
 
   <!-- LINE 4 (y = 212) -->
   <text x="32" y="212" class="sf-mono line4">
     <tspan fill="#636366">[STATUS]: </tspan>
-    <tspan fill="#30d158" font-weight="600">● Available for Engineering Roles &amp; Consulting </tspan>
+    <tspan fill="#30d158" font-weight="600">● Open for Engineering Roles &amp; Creative Projects </tspan>
     <tspan fill="#636366">| </tspan>
-    <tspan fill="#8e8e93">High Velocity</tspan>
+    <tspan fill="#8e8e93">Top Quality</tspan>
   </text>
 
   <!-- LINE 5 (y = 255) -->
   <text x="32" y="255" class="sf-mono line5">
     <tspan fill="#0a84ff" font-weight="600">❯ </tspan>
-    <tspan fill="#f5f5f7">crafting_next_generation_products</tspan>
+    <tspan fill="#f5f5f7">crafting_next_generation_digital_and_brand_experiences</tspan>
   </text>
 
   <!-- Apple Terminal Blinking Cursor -->
-  <rect x="375" y="242" width="8" height="16" fill="#0a84ff" class="cursor-blink line5" />
+  <rect x="532" y="242" width="8" height="16" fill="#0a84ff" class="cursor-blink line5" />
 </svg>

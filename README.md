@@ -5,43 +5,51 @@
 
   <!-- Subtitle -->
   <p align="center">
-    <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <em>Architecting intelligent products &amp; scalable web systems</em>
+    <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <strong>Creative &amp; Brand Solutions Director</strong>
+    <br>
+    <em>Bridging Intelligent Software Systems, End-to-End Brand Design, Print Architecture &amp; Motion Graphics</em>
   </p>
 
-  <!-- Quick Action Badges (Apple Minimal Dark) -->
+  <!-- Connect / Social Badges (Apple Minimal Dark) -->
   <p align="center">
-    <a href="mailto:yahiabinzaman@gmail.com"><img src="https://img.shields.io/badge/Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/"><img src="https://img.shields.io/badge/LinkedIn-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=0a84ff" alt="LinkedIn" /></a>
-    <a href="https://github.com/yahiabinzaman"><img src="https://img.shields.io/badge/GitHub-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=0a84ff" alt="LinkedIn" /></a>
+    <a href="https://www.behance.net/yahiamahmud" target="_blank"><img src="https://img.shields.io/badge/Behance-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=0057ff" alt="Behance" /></a>
+    <a href="https://github.com/yahiabinzaman" target="_blank"><img src="https://img.shields.io/badge/GitHub-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+    <a href="https://www.facebook.com/YahiaBinZaman" target="_blank"><img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=1877f2" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram" /></a>
+    <a href="mailto:yahiabinzaman@gmail.com"><img src="https://img.shields.io/badge/Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
   </p>
 
 </div>
 
 ---
 
-### 💼 Executive Summary
+### 💼 Executive Overview
 
 ```typescript
-interface EngineerProfile {
+interface ProfessionalProfile {
   name: "Yahia Bin Zaman";
-  title: "Applied AI & Full-Stack Software Engineer";
-  coreFocus: [
-    "Autonomous AI Agents & LLM Integration",
-    "High-Performance Full-Stack Web Architecture",
-    "Production API Design & Scalable Cloud Systems",
-    "Adobe Creative Cloud & Precision UI/UX"
+  roles: [
+    "Applied AI & Full-Stack Software Engineer",
+    "Brand Identity & Complete Print Solutions Specialist",
+    "Video Editor & Motion Designer"
   ];
-  availability: "🟢 Open for Full-time Roles & High-Impact Consulting";
+  coreDisciplines: {
+    engineering: ["Autonomous AI Agents", "Next.js / React Architecture", "REST APIs", "Cloud & Databases"],
+    designAndPrint: ["Complete Brand Identity", "Prepress & Publication Design", "Typography Systems", "Packaging"],
+    videoAndMotion: ["Cinematic Video Editing", "Motion Graphics", "Color Grading", "Visual Storytelling"]
+  };
+  availability: "🟢 Open for Full-time Roles, Strategic Consulting & Creative Brand Projects";
 }
 ```
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### 🛠️ Technical & Creative Capabilities
 
 <div align="center">
 
-#### 🤖 AI & Machine Learning
+#### 🤖 Applied AI & Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
   <img src="https://img.shields.io/badge/AI_Agents-18181b?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI Agents" />
@@ -49,7 +57,7 @@ interface EngineerProfile {
   <img src="https://img.shields.io/badge/Prompt_Engineering-18181b?style=for-the-badge&logo=google&logoColor=ffffff" alt="Prompt Engineering" />
 </p>
 
-#### 🌐 Frontend Engineering
+#### 🌐 Frontend & Full-Stack Development
 <p>
   <img src="https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
@@ -70,14 +78,25 @@ interface EngineerProfile {
   <img src="https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="REST" />
 </p>
 
-#### 🎨 Creative & Visual Software
+#### 🎨 Graphic Design & Total Print Solutions
 <p>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-18181b?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-18181b?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-18181b?style=for-the-badge&logo=adobecreativecloud&logoColor=da1f26" alt="Creative Cloud" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-18181b?style=for-the-badge&logo=adobeindesign&logoColor=ff3366" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Brand_Identity-18181b?style=for-the-badge&logo=adobe&logoColor=ffffff" alt="Brand Identity" />
+  <img src="https://img.shields.io/badge/Total_Print_Solutions-18181b?style=for-the-badge&logo=print&logoColor=ffffff" alt="Print Solutions" />
+  <img src="https://img.shields.io/badge/Typography_Systems-18181b?style=for-the-badge&logo=font-awesome&logoColor=ffffff" alt="Typography" />
 </p>
 
-#### 🧰 Workflow & Infrastructure
+#### 🎬 Video Editing & Motion Graphics
+<p>
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-18181b?style=for-the-badge&logo=adobepremierepro&logoColor=9999ff" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-18181b?style=for-the-badge&logo=adobeaftereffects&logoColor=9999ff" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Motion_Design-18181b?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Motion Design" />
+  <img src="https://img.shields.io/badge/Color_Grading-18181b?style=for-the-badge&logo=davinciresolve&logoColor=ffffff" alt="Color Grading" />
+</p>
+
+#### 🧰 Workflow & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
@@ -111,18 +130,27 @@ interface EngineerProfile {
 
 ---
 
-### 🤝 Connect & Inquiries
+### 🌐 Featured Portfolios & Direct Contact
 
 <div align="center">
 
-  <a href="mailto:yahiabinzaman@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Direct Email" />
+  <a href="https://www.behance.net/yahiamahmud" target="_blank">
+    <img src="https://img.shields.io/badge/Behance_Portfolio-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=0057ff" alt="Behance" />
   </a>
   <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-18181b?style=for-the-badge&logo=linkedin&logoColor=0a84ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=0a84ff" alt="LinkedIn" />
   </a>
   <a href="https://github.com/yahiabinzaman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repositories-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub_Projects-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/YahiaBinZaman" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=1877f2" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram" />
+  </a>
+  <a href="mailto:yahiabinzaman@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Direct Email" />
   </a>
 
 </div>
