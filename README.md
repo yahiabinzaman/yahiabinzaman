@@ -10,14 +10,14 @@
     <em>Bridging Intelligent Software Systems, End-to-End Brand Design, Print Architecture &amp; Motion Graphics</em>
   </p>
 
-  <!-- Connect / Social Badges (Apple Minimal Dark) -->
+  <!-- Connect / Social Badges (Apple Minimal Dark with White Icons) -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=0a84ff" alt="LinkedIn" /></a>
-    <a href="https://www.behance.net/yahiamahmud" target="_blank"><img src="https://img.shields.io/badge/Behance-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=0057ff" alt="Behance" /></a>
+    <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+    <a href="https://www.behance.net/yahiamahmud" target="_blank"><img src="https://img.shields.io/badge/Behance-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=ffffff" alt="Behance" /></a>
     <a href="https://github.com/yahiabinzaman" target="_blank"><img src="https://img.shields.io/badge/GitHub-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-    <a href="https://www.facebook.com/YahiaBinZaman" target="_blank"><img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=1877f2" alt="Facebook" /></a>
-    <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram" /></a>
-    <a href="mailto:yahiabinzaman@gmail.com"><img src="https://img.shields.io/badge/Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+    <a href="https://www.facebook.com/YahiaBinZaman" target="_blank"><img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
+    <a href="mailto:yahiabinzaman@gmail.com"><img src="https://img.shields.io/badge/Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
   </p>
 
 </div>
@@ -80,9 +80,9 @@ interface ProfessionalProfile {
 
 #### 🎨 Graphic Design & Total Print Solutions
 <p>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-18181b?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-18181b?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_InDesign-18181b?style=for-the-badge&logo=adobeindesign&logoColor=ff3366" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-18181b?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-18181b?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-18181b?style=for-the-badge&logo=adobeindesign&logoColor=ffffff" alt="InDesign" />
   <img src="https://img.shields.io/badge/Brand_Identity-18181b?style=for-the-badge&logo=adobe&logoColor=ffffff" alt="Brand Identity" />
   <img src="https://img.shields.io/badge/Total_Print_Solutions-18181b?style=for-the-badge&logo=print&logoColor=ffffff" alt="Print Solutions" />
   <img src="https://img.shields.io/badge/Typography_Systems-18181b?style=for-the-badge&logo=font-awesome&logoColor=ffffff" alt="Typography" />
@@ -90,8 +90,8 @@ interface ProfessionalProfile {
 
 #### 🎬 Video Editing & Motion Graphics
 <p>
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-18181b?style=for-the-badge&logo=adobepremierepro&logoColor=9999ff" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-18181b?style=for-the-badge&logo=adobeaftereffects&logoColor=9999ff" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-18181b?style=for-the-badge&logo=adobepremierepro&logoColor=ffffff" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-18181b?style=for-the-badge&logo=adobeaftereffects&logoColor=ffffff" alt="After Effects" />
   <img src="https://img.shields.io/badge/Motion_Design-18181b?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Motion Design" />
   <img src="https://img.shields.io/badge/Color_Grading-18181b?style=for-the-badge&logo=davinciresolve&logoColor=ffffff" alt="Color Grading" />
 </p>
@@ -135,22 +135,22 @@ interface ProfessionalProfile {
 <div align="center">
 
   <a href="https://www.behance.net/yahiamahmud" target="_blank">
-    <img src="https://img.shields.io/badge/Behance_Portfolio-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=0057ff" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance_Portfolio-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=ffffff" alt="Behance" />
   </a>
   <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=0a84ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
   <a href="https://github.com/yahiabinzaman" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Projects-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/YahiaBinZaman" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=1877f2" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
   </a>
   <a href="mailto:yahiabinzaman@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Direct Email" />
+    <img src="https://img.shields.io/badge/Direct_Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Direct Email" />
   </a>
 
 </div>
