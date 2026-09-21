@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Futuristic AI & Software Engineer Header Banner -->
-  <img src="assets/header-banner.jpg" width="100%" alt="Yahia Bin Zaman - Applied AI & Full Stack Software Engineer" style="border-radius: 12px; margin-bottom: 12px;" />
+  <!-- Futuristic Animated SVG Terminal Header -->
+  <img src="assets/terminal-header.svg" width="100%" alt="Yahia Bin Zaman - Futuristic Animated Terminal" style="border-radius: 12px; margin-bottom: 12px;" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/yahiabinzaman">
