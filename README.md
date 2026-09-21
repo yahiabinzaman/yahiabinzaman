@@ -1,8 +1,11 @@
 <div align="center">
 
-  <!-- Header Typing Animation Banner -->
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Yahia%20Bin%20Zaman&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=16&descAlignY=68" width="100%" alt="Header Banner" />
+
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/yahiabinzaman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yahia+Bin+Zaman;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+%26+Creative+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yahia+Bin+Zaman;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+%26+Creative+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -97,17 +100,20 @@ const yahia = {
 ### 📊 GitHub Analytics
 
 <div align="center">
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yahiabinzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yahia's GitHub Stats" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiabinzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=yahiabinzaman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiabinzaman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&theme=tokyonight" alt="Profile Details" />
   </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&theme=tokyonight" alt="Top Languages" />
+  </p>
+
 </div>
 
 ---
