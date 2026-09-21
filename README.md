@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Futuristic Animated SVG Terminal Header -->
-  <img src="assets/terminal-header.svg" width="100%" alt="Yahia Bin Zaman - Futuristic Animated Terminal" style="border-radius: 12px; margin-bottom: 12px;" />
+  <img src="assets/terminal-v2.svg" width="100%" alt="Yahia Bin Zaman - Futuristic Animated Terminal" style="border-radius: 12px; margin-bottom: 12px;" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/yahiabinzaman">
