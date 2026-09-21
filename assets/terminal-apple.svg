@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 310" width="100%" height="100%">
+  <defs>
+    <!-- Apple Space Black / Adobe Dark Slate Gradient -->
+    <linearGradient id="appleBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161618"/>
+      <stop offset="100%" stop-color="#0c0c0e"/>
+    </linearGradient>
+
+    <!-- Subtle Matte Header -->
+    <linearGradient id="appleHeader" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#242426"/>
+      <stop offset="100%" stop-color="#1c1c1e"/>
+    </linearGradient>
+
+    <!-- Apple Titanium Border -->
+    <linearGradient id="titaniumBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3a3a3c"/>
+      <stop offset="50%" stop-color="#2c2c2e"/>
+      <stop offset="100%" stop-color="#3a3a3c"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sf-mono {
+      font-family: -apple-system-monospaced, 'SF Mono', 'Monaco', 'Menlo', 'Courier New', monospace;
+      font-size: 13.5px;
+      letter-spacing: -0.2px;
+    }
+    
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @keyframes step1 { 0% { opacity: 0; } 5%, 100% { opacity: 1; } }
+    @keyframes step2 { 0%, 15% { opacity: 0; } 22%, 100% { opacity: 1; } }
+    @keyframes step3 { 0%, 35% { opacity: 0; } 42%, 100% { opacity: 1; } }
+    @keyframes step4 { 0%, 55% { opacity: 0; } 62%, 100% { opacity: 1; } }
+    @keyframes step5 { 0%, 75% { opacity: 0; } 82%, 100% { opacity: 1; } }
+
+    .line1 { animation: step1 10s infinite; }
+    .line2 { animation: step2 10s infinite; }
+    .line3 { animation: step3 10s infinite; }
+    .line4 { animation: step4 10s infinite; }
+    .line5 { animation: step5 10s infinite; }
+    .cursor-blink { animation: blink 0.8s infinite; }
+  </style>
+
+  <!-- Outer Window Frame (Apple Rounded Corners) -->
+  <rect x="1.5" y="1.5" width="847" height="307" rx="14" fill="url(#titaniumBorder)" />
+  <rect x="2.5" y="2.5" width="845" height="305" rx="13" fill="url(#appleBg)" />
+
+  <!-- macOS Top Navigation Bar -->
+  <path d="M 2.5 15.5 C 2.5 8.32 8.32 2.5 15.5 2.5 L 834.5 2.5 C 841.68 2.5 847.5 8.32 847.5 15.5 L 847.5 42 L 2.5 42 Z" fill="url(#appleHeader)" />
+  <line x1="2.5" y1="42" x2="847.5" y2="42" stroke="#2c2c2e" stroke-width="1" />
+
+  <!-- Apple Window Controls (Refined Muted Traffic Lights) -->
+  <circle cx="24" cy="22" r="5.5" fill="#ff5f57" stroke="#e0443e" stroke-width="0.5" />
+  <circle cx="42" cy="22" r="5.5" fill="#febc2e" stroke="#d89e24" stroke-width="0.5" />
+  <circle cx="60" cy="22" r="5.5" fill="#28c840" stroke="#1aab29" stroke-width="0.5" />
+
+  <!-- Window Header Title -->
+  <text x="425" y="26" fill="#8e8e93" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="12px" font-weight="500" text-anchor="middle">
+    yahia@macbook-pro: ~/developer/applied-ai (zsh)
+  </text>
+
+  <!-- LINE 1 (y = 85) -->
+  <text x="32" y="85" class="sf-mono line1">
+    <tspan fill="#0a84ff" font-weight="600">❯ </tspan>
+    <tspan fill="#f5f5f7" font-weight="600">initialize </tspan>
+    <tspan fill="#98989d">--identity=</tspan>
+    <tspan fill="#ffffff">"Yahia Bin Zaman" </tspan>
+    <tspan fill="#30d158">--mode=production</tspan>
+  </text>
+
+  <!-- LINE 2 (y = 128) -->
+  <text x="32" y="128" class="sf-mono line2">
+    <tspan fill="#636366">[SYSTEM]: </tspan>
+    <tspan fill="#f5f5f7" font-weight="600">Applied AI &amp; Full-Stack Software Engineer</tspan>
+  </text>
+
+  <!-- LINE 3 (y = 170) -->
+  <text x="32" y="170" class="sf-mono line3">
+    <tspan fill="#636366">[MODULES]: </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Autonomous AI Agents  </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Next.js / Full-Stack  </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Adobe Creative Suite</tspan>
+  </text>
+
+  <!-- LINE 4 (y = 212) -->
+  <text x="32" y="212" class="sf-mono line4">
+    <tspan fill="#636366">[STATUS]: </tspan>
+    <tspan fill="#30d158" font-weight="600">● Available for Engineering Roles &amp; Consulting </tspan>
+    <tspan fill="#636366">| </tspan>
+    <tspan fill="#8e8e93">High Velocity</tspan>
+  </text>
+
+  <!-- LINE 5 (y = 255) -->
+  <text x="32" y="255" class="sf-mono line5">
+    <tspan fill="#0a84ff" font-weight="600">❯ </tspan>
+    <tspan fill="#f5f5f7">crafting_next_generation_products</tspan>
+  </text>
+
+  <!-- Apple Terminal Blinking Cursor -->
+  <rect x="375" y="242" width="8" height="16" fill="#0a84ff" class="cursor-blink line5" />
+</svg>
