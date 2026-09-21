@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Yahia%20Bin%20Zaman&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Applied%20AI%20%26%20Full-Stack%20Software%20Engineer&descSize=16&descAlignY=68" width="100%" alt="Header Banner" />
+  <!-- Futuristic AI & Software Engineer Header Banner -->
+  <img src="assets/header-banner.jpg" width="100%" alt="Yahia Bin Zaman - Applied AI & Full Stack Software Engineer" style="border-radius: 12px; margin-bottom: 12px;" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/yahiabinzaman">
