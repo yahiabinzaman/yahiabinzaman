@@ -17,7 +17,7 @@
     <a href="https://github.com/yahiabinzaman" target="_blank"><img src="https://img.shields.io/badge/GitHub-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
     <a href="https://www.facebook.com/YahiaBinZaman" target="_blank"><img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" /></a>
     <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
-    <a href="mailto:yahiabinzaman@gmail.com"><img src="https://img.shields.io/badge/Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+    <a href="mailto:yahiamahmud10@gmail.com"><img src="https://img.shields.io/badge/Email-yahiamahmud10%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
   </p>
 
 </div>
@@ -197,8 +197,8 @@ interface ProfessionalProfile {
   <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
   </a>
-  <a href="mailto:yahiabinzaman@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-yahiabinzaman%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Direct Email" />
+  <a href="mailto:yahiamahmud10@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-yahiamahmud10%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Direct Email" />
   </a>
 
 </div>

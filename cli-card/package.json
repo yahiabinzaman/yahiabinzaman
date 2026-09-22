@@ -1,6 +1,6 @@
 {
   "name": "yahiabinzaman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive CLI Business Card for Yahia Bin Zaman - Applied AI & Full-Stack Engineer",
   "main": "bin/index.js",
   "bin": {
@@ -14,6 +14,6 @@
     "fullstack",
     "yahiabinzaman"
   ],
-  "author": "Yahia Bin Zaman <yahiabinzaman@gmail.com>",
+  "author": "Yahia Bin Zaman <yahiamahmud10@gmail.com>",
   "license": "MIT"
 }

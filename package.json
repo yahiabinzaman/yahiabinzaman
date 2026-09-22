@@ -1,11 +1,11 @@
 {
   "name": "yahiabinzaman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive CLI Business Card for Yahia Bin Zaman",
   "main": "cli-card/bin/index.js",
   "bin": {
     "yahiabinzaman": "cli-card/bin/index.js"
   },
-  "author": "Yahia Bin Zaman <yahiabinzaman@gmail.com>",
+  "author": "Yahia Bin Zaman <yahiamahmud10@gmail.com>",
   "license": "MIT"
 }
