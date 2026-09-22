@@ -19,14 +19,12 @@ const AMBER = "\x1b[38;2;251;191;36m";
 function getCharWidth(char) {
   const code = char.codePointAt(0);
   if (!code) return 0;
-  // Zero-width control characters
   if (code < 32 || (code >= 0x7F && code < 0xA0)) return 0;
-  // Wide emojis & symbols
   if (
     (code >= 0x1F300 && code <= 0x1FAFF) ||
     (code >= 0x2600 && code <= 0x27BF) ||
     (code >= 0x2300 && code <= 0x23FF) ||
-    ["⚡", "●", "🟢", "✓", "✔", "⌨", "🚀", "🎨", "🛠", "💼"].includes(char)
+    ["⚡", "●", "🟢", "✓", "✔", "⌨", "🚀", "🎨", "🛠", "💼", "🏭"].includes(char)
   ) {
     return 2;
   }
@@ -42,7 +40,7 @@ function getStringWidth(str) {
   return width;
 }
 
-function printBox(lines, width = 80) {
+function printBox(lines, width = 86) {
   const top = `${ACCENT}╭${"─".repeat(width)}╮${RESET}`;
   const bottom = `${ACCENT}╰${"─".repeat(width)}╯${RESET}`;
   const divider = `${ACCENT}├${"─".repeat(width)}┤${RESET}`;
@@ -63,7 +61,7 @@ function printBox(lines, width = 80) {
 const content = [
   `${BOLD}${WHITE}  ⚡ YAHIA BIN ZAMAN${RESET}`,
   `  ${CYAN}Applied AI & Full-Stack Engineer${RESET} ${MUTED}|${RESET} ${VIOLET}Creative & Brand Director${RESET}`,
-  `  ${DIM}Managing Incharge @ Colorlab (8+ Years) | Open-Source Systems Creator${RESET}`,
+  `  ${DIM}Managing Incharge @ Colorlab (8+ Years) | Software & Systems Architect${RESET}`,
   "---",
   `  ${BOLD}${SILVER}GitHub    :${RESET} ${WHITE}https://github.com/yahiabinzaman${RESET}`,
   `  ${BOLD}${SILVER}LinkedIn  :${RESET} ${WHITE}https://linkedin.com/in/yahia-mahmud-b4095b354${RESET}`,
@@ -72,18 +70,19 @@ const content = [
   `  ${BOLD}${SILVER}Instagram :${RESET} ${WHITE}https://instagram.com/yahiabinzaman_official${RESET}`,
   `  ${BOLD}${SILVER}Email     :${RESET} ${EMERALD}yahiamahmud10@gmail.com${RESET}`,
   "---",
-  `  ${BOLD}${AMBER}🚀 Flagship Innovations & Built Products:${RESET}`,
-  `  ${CYAN}● Borno for macOS${RESET}       ${MUTED}❯${RESET} 1st zero-latency Unicode + Bijoy keyboard for Mac`,
-  `  ${VIOLET}● Vector Toolkit Pro${RESET}    ${MUTED}❯${RESET} Advanced automation & prepress suite for Illustrator`,
-  `  ${EMERALD}● DisplayFlow${RESET}           ${MUTED}❯${RESET} High-performance macOS display & workspace utility`,
-  `  ${WHITE}● Shop Cherlina${RESET}         ${MUTED}❯${RESET} Founder & Lead Full-Stack E-Commerce Architect`,
+  `  ${BOLD}${AMBER}🚀 Flagship Software & Enterprise Systems:${RESET}`,
+  `  ${CYAN}● ColorLab Workspace${RESET}   ${MUTED}❯${RESET} Custom ERP OS: Costing, Prepress, Ledger & Orders`,
+  `  ${VIOLET}● Borno for macOS${RESET}      ${MUTED}❯${RESET} 1st zero-latency Unicode + Bijoy keyboard for Mac`,
+  `  ${EMERALD}● Vector Toolkit Pro${RESET}   ${MUTED}❯${RESET} Automation & prepress color suite for Illustrator`,
+  `  ${WHITE}● DisplayFlow${RESET}          ${MUTED}❯${RESET} macOS multi-display & workspace manager`,
+  `  ${AMBER}● Shop Cherlina${RESET}        ${MUTED}❯${RESET} Founder & Lead Full-Stack E-Commerce Architect`,
   "---",
   `  ${BOLD}${CYAN}🛠️ Core Superpowers & Leadership:${RESET}`,
   `  ${SILVER}• 8+ Years Design Leadership @ Colorlab (Managing Incharge / Ex-MD)${RESET}`,
-  `  ${SILVER}• End-to-End Hybrid Engineering: Adobe Prepress & Brand ➔ AI & Next.js${RESET}`,
+  `  ${SILVER}• End-to-End Hybrid Engineering: Prepress & Print ➔ AI & Next.js Systems${RESET}`,
   "---",
-  `  ${BOLD}${EMERALD}Status:${RESET} 🟢 ${BOLD}Available for Senior Roles, High-Impact AI & Brand Consulting${RESET}`,
+  `  ${BOLD}${EMERALD}Status:${RESET} 🟢 ${BOLD}Available for Senior Roles, AI Architecture & High-Impact Projects${RESET}`,
   `  ${DIM}Run anytime: npx github:yahiabinzaman/yahiabinzaman${RESET}`
 ];
 
-printBox(content, 84);
+printBox(content, 86);

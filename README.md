@@ -7,7 +7,7 @@
   <p align="center">
     <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <strong>Creative &amp; Brand Solutions Director</strong>
     <br>
-    <em>Managing Incharge @ Colorlab (8+ Years) • Creator of Borno for Mac, Vector Toolkit Pro &amp; DisplayFlow</em>
+    <em>Managing Incharge @ Colorlab (8+ Years) • Creator of ColorLab Workspace, Borno for Mac, Vector Toolkit Pro &amp; DisplayFlow</em>
   </p>
 
   <!-- Connect / Social Badges (Apple Minimal Dark with White Icons) -->
@@ -38,6 +38,7 @@ npx github:yahiabinzaman/yahiabinzaman
 
 | Innovation & Product | Description & Impact | Architecture & Domain |
 | :--- | :--- | :--- |
+| **🏭 ColorLab Workspace (ERP OS)** | **Unified industrial ERP & automated production management suite.** Built for printing presses and manufacturing: automated diary costing, keyring production pipeline, paper layout optimization, client CRM, invoicing, and real-time cash flow financial ledger. | `Enterprise ERP` `Full-Stack SaaS` `Financial Ledger` |
 | **⌨️ Borno for macOS** | **Bangladesh's 1st zero-latency Bengali keyboard engine for Mac.** Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero lag, instant switching, and native macOS integration. | `Desktop Software` `macOS Engine` `Typographic Architecture` |
 | **✒️ Vector Toolkit Pro** | **Professional Illustrator automation suite.** Streamlines complex vector workflows, automated batch alignment, prepress color separation, and high-precision packaging geometry. | `Adobe Illustrator Ext` `Automation` `Prepress Engineering` |
 | **🖥️ DisplayFlow** | **Next-generation macOS display & workspace manager.** Designed for creative professionals and developers to optimize multi-monitor setups, color profiles, and system window flows. | `macOS Utility` `Performance` `Developer Tooling` |
@@ -54,6 +55,7 @@ interface LeadershipProfile {
   experience: "8+ Years in Graphic Design, Brand Architecture & Technical Leadership";
   currentPosition: "Managing Incharge @ Colorlab (Former Managing Director)";
   coreImpact: [
+    "Engineered ColorLab Workspace — a custom ERP managing live manufacturing pipelines, costing & financial ledgers",
     "Directed full-scale brand identity, prepress manufacturing & publication design for enterprise clients",
     "Pioneered zero-latency macOS software solutions for the Bengali typography & creative ecosystem",
     "Engineered custom automation tooling for Adobe Creative Cloud reducing repetitive design overhead by 80%",
@@ -67,11 +69,11 @@ interface LeadershipProfile {
 
 ### ⚡ The Hybrid Advantage (Why Work With Me?)
 
-Most engineering teams suffer from a severe disconnect between design and software development. Having spent **8+ years directing brand design and prepress architecture at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I bridge the entire spectrum:
+Most engineering teams suffer from a severe disconnect between design and software development. Having spent **8+ years directing brand design, manufacturing, and ERP systems at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I bridge the entire spectrum:
 
 * 🎯 **Zero Design-Dev Bottleneck**: Pixel-perfect translation from Adobe Creative Cloud into production-grade Next.js & React code.
 * 🤖 **AI-Augmented Velocity**: Deploying autonomous agent pipelines and intelligent tools that 10x shipping speed.
-* 🛡️ **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Prepress Packaging ➔ Full-Stack Software ➔ Production Cloud Scale.
+* 🛡️ **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Industrial ERP/Software ➔ Full-Stack Production Cloud Scale.
 
 ```
 ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
