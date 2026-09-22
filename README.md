@@ -7,7 +7,7 @@
   <p align="center">
     <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <strong>Creative &amp; Brand Solutions Director</strong>
     <br>
-    <em>Bridging Intelligent Software Systems, End-to-End Brand Design, Print Architecture &amp; Motion Graphics</em>
+    <em>Architecting Autonomous AI Systems, Modern Web Applications &amp; High-Impact Brand Identities</em>
   </p>
 
   <!-- Connect / Social Badges (Apple Minimal Dark with White Icons) -->
@@ -39,9 +39,21 @@ interface ProfessionalProfile {
     designAndPrint: ["Complete Brand Identity", "Prepress & Publication Design", "Typography Systems", "Packaging"],
     videoAndMotion: ["Cinematic Video Editing", "Motion Graphics", "Color Grading", "Visual Storytelling"]
   };
-  availability: "🟢 Open for Full-time Roles, Strategic Consulting & Creative Brand Projects";
+  availability: "🟢 Open for Full-time Roles, Strategic Consulting & High-Impact Creative Projects";
 }
 ```
+
+---
+
+### 🌟 Featured Works & Case Studies
+
+| Project & Domain | Description & Architecture | Tech Stack & Links |
+| :--- | :--- | :--- |
+| **⌨️ Open Borno Keyboard** | Next-generation Bengali input engine with custom typing layouts and intuitive user experience. | `JavaScript` `Desktop App` `UI/UX`<br>[📂 View Repository](https://github.com/yahiabinzaman) |
+| **🤖 Autonomous AI Agents & Workflows** | Orchestrating multi-agent LLM systems, intelligent code tools, and autonomous task execution pipelines. | `Python` `AI Agents` `LLMs`<br>[⚡ Explore Projects](https://github.com/yahiabinzaman) |
+| **🌐 Full-Stack Modern Web Applications** | Production-ready, ultra-responsive web applications built with scalable frontend & cloud databases. | `Next.js` `React` `TypeScript` `PostgreSQL`<br>[🚀 View Live Repos](https://github.com/yahiabinzaman) |
+| **🎨 Complete Brand & Print Solutions** | End-to-end brand identity architecture, prepress print production, packaging, and custom typography. | `Photoshop` `Illustrator` `InDesign`<br>[🎨 View Behance Portfolio](https://www.behance.net/yahiamahmud) |
+| **🎬 Motion Design & Video Editing** | High-velocity video editing, commercial motion graphics, and cinematic color grading. | `Premiere Pro` `After Effects`<br>[🎬 Case Studies](https://www.behance.net/yahiamahmud) |
 
 ---
 
