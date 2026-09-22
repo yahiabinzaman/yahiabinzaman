@@ -26,7 +26,7 @@
 
 ### Interactive Terminal Card
 
-Run this command in any terminal to view my interactive digital card:
+Run this command in any terminal to view my interactive digital card directly from GitHub:
 
 ```bash
 npx github:yahiabinzaman/yahiabinzaman
@@ -34,16 +34,41 @@ npx github:yahiabinzaman/yahiabinzaman
 
 ---
 
-### Flagship Innovations & Built Products
+### Flagship Products & Built Systems
 
-| Innovation & Product | Description & Impact | Architecture & Domain |
-| :--- | :--- | :--- |
-| **ColorLab Workspace (ERP OS)** | **Unified industrial ERP & automated production management suite.** Built for printing presses and manufacturing: automated diary costing, keyring production pipeline, paper layout optimization, client CRM, invoicing, and real-time cash flow financial ledger. | `Enterprise ERP` `Full-Stack SaaS` `Financial Ledger` |
-| **Borno for macOS** | **Bangladesh's 1st zero-latency Bengali keyboard engine for Mac.** Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero lag, instant switching, and native macOS integration. | `Desktop Software` `macOS Engine` `Typographic Architecture` |
-| **Vector Toolkit Pro** | **Professional Illustrator automation suite.** Streamlines complex vector workflows, automated batch alignment, prepress color separation, and high-precision packaging geometry. | `Adobe Illustrator Ext` `Automation` `Prepress Engineering` |
-| **DisplayFlow** | **Next-generation macOS display & workspace manager.** Designed for creative professionals and developers to optimize multi-monitor setups, color profiles, and system window flows. | `macOS Utility` `Performance` `Developer Tooling` |
-| **Shop Cherlina** | **E-Commerce & Brand Platform.** Founder and Lead Full-Stack Architect, delivering end-to-end brand identity, custom storefront development, and scalable cloud infrastructure. | `Founder` `Next.js / React` `E-Commerce Architecture` |
-| **Autonomous AI Multi-Agent Systems** | Production-ready AI agent pipelines, multi-model orchestration, task automation, and intelligent developer tooling. | `Applied AI` `Python` `LLM Pipelines` |
+#### 1. ColorLab Workspace (Industrial ERP & Costing OS)
+* **Domain**: `Enterprise ERP` • `Full-Stack SaaS` • `Financial Ledger` • `Manufacturing Pipeline`
+* **Core Capabilities**:
+  * **Automated Production & Costing**: Instant diary costing engine, keyring production pipeline, and raw material pricing calculator.
+  * **Layout Optimizer**: High-precision paper cutting and sheet layout optimizer for industrial offset printing.
+  * **Financial Ledger & CRM**: Live cash flow management, revenue tracking, pending dues recovery, customer memos, and client database.
+  * **Real-time Pipeline**: Dynamic multi-stage order tracking from design approval to delivery.
+
+#### 2. Borno for macOS (Native Bengali Keyboard Engine)
+* **Domain**: `macOS Software` • `Input Method Engine` • `Typographic Architecture`
+* **Core Capabilities**:
+  * **First Zero-Latency Bengali Engine for Mac**: Engineered specifically for high-speed typing with zero input delay.
+  * **Dual Engine Typing**: Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero layout switching friction.
+  * **Native macOS Integration**: Built to work natively across all macOS software suites (Adobe, Microsoft Office, Browsers, IDEs).
+
+#### 3. Vector Toolkit Pro (Adobe Illustrator Automation Suite)
+* **Domain**: `Automation Scripting` • `Vector Optimization` • `Prepress Engineering`
+* **Core Capabilities**:
+  * **Automated Alignment & Geometry**: Single-click multi-artboard auto-align, bounding box normalization, and anchor point cleanup.
+  * **Prepress Color Separation**: Automated spot color management, CMYK plate verification, and plate layout generation.
+  * **Batch Asset Export**: High-velocity SVG, PDF, and high-resolution print export pipelines.
+
+#### 4. DisplayFlow (macOS Display & Workspace Manager)
+* **Domain**: `macOS Utility` • `Developer Tooling` • `System Performance`
+* **Core Capabilities**:
+  * **Multi-Monitor Flow Control**: Rapid display resolution switching, color profile management, and workspace window snapping.
+  * **Optimized for Creators**: Built specifically for designers and engineers handling color-critical displays and complex multi-window setups.
+
+#### 5. Shop Cherlina (Modern E-Commerce Platform)
+* **Domain**: `Founder` • `Next.js / React Architecture` • `Brand Identity`
+* **Core Capabilities**:
+  * **End-to-End Storefront**: Custom designed brand identity, modern shopping interface, and responsive product catalog.
+  * **Cloud Infrastructure**: Scalable cloud database backend, order management, and fast checkout experience.
 
 ---
 
@@ -52,16 +77,16 @@ npx github:yahiabinzaman/yahiabinzaman
 ```typescript
 interface LeadershipProfile {
   name: "Yahia Bin Zaman";
-  experience: "8+ Years in Graphic Design, Brand Architecture & Technical Leadership";
+  experience: "8+ Years in Graphic Design, Industrial Prepress & Technical Leadership";
   currentPosition: "Managing Incharge @ Colorlab (Former Managing Director)";
-  coreImpact: [
-    "Engineered ColorLab Workspace — a custom ERP managing live manufacturing pipelines, costing & financial ledgers",
-    "Directed full-scale brand identity, prepress manufacturing & publication design for enterprise clients",
-    "Pioneered zero-latency macOS software solutions for the Bengali typography & creative ecosystem",
-    "Engineered custom automation tooling for Adobe Creative Cloud reducing repetitive design overhead by 80%",
-    "Built and shipped full-stack web applications and AI-driven platforms from scratch"
+  milestones: [
+    "Architected ColorLab Workspace — an ERP managing live industrial production, costing & financial ledgers",
+    "Pioneered Borno for Mac — the 1st zero-latency Bengali keyboard engine supporting Unicode & Bijoy simultaneously",
+    "Engineered Vector Toolkit Pro — automating Adobe Creative Cloud workflows and cutting prepress overhead by 80%",
+    "Directed enterprise brand identity, packaging, and commercial publication design for 8+ years",
+    "Shipped production-ready full-stack web applications and AI agent orchestration systems"
   ];
-  availability: "Available for Senior Engineering Roles, AI Systems Architecture & High-Impact Consulting";
+  status: "Available for Senior Roles, AI Architecture & High-Impact Brand Consulting";
 }
 ```
 
@@ -69,11 +94,11 @@ interface LeadershipProfile {
 
 ### The Hybrid Advantage (Why Work With Me?)
 
-Most engineering teams suffer from a severe disconnect between design and software development. Having spent **8+ years directing brand design, manufacturing, and ERP systems at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I bridge the entire spectrum:
+Most engineering teams suffer from a severe disconnect between creative design and software architecture. Having spent **8+ years directing brand design, prepress manufacturing, and ERP systems at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I deliver full-lifecycle product ownership:
 
 * **Zero Design-Dev Bottleneck**: Pixel-perfect translation from Adobe Creative Cloud into production-grade Next.js & React code.
 * **AI-Augmented Velocity**: Deploying autonomous agent pipelines and intelligent tools that 10x shipping speed.
-* **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Industrial ERP/Software ➔ Full-Stack Production Cloud Scale.
+* **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Industrial ERP / Software ➔ Full-Stack Production Cloud Scale.
 
 ```
 ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
