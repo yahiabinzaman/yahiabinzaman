@@ -26,10 +26,10 @@
 
 ### 💻 Interactive Terminal Card
 
-Run this command in your terminal to view my interactive digital card:
+Run this command in any terminal to view my interactive digital business card:
 
 ```bash
-npx yahiabinzaman
+npx github:yahiabinzaman/yahiabinzaman
 ```
 
 ---
