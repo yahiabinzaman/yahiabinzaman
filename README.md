@@ -24,7 +24,7 @@
 
 ---
 
-### 💻 Interactive Terminal Card
+### Interactive Terminal Card
 
 Run this command in any terminal to view my interactive digital card:
 
@@ -34,20 +34,20 @@ npx github:yahiabinzaman/yahiabinzaman
 
 ---
 
-### 🚀 Flagship Innovations & Built Products
+### Flagship Innovations & Built Products
 
 | Innovation & Product | Description & Impact | Architecture & Domain |
 | :--- | :--- | :--- |
-| **🏭 ColorLab Workspace (ERP OS)** | **Unified industrial ERP & automated production management suite.** Built for printing presses and manufacturing: automated diary costing, keyring production pipeline, paper layout optimization, client CRM, invoicing, and real-time cash flow financial ledger. | `Enterprise ERP` `Full-Stack SaaS` `Financial Ledger` |
-| **⌨️ Borno for macOS** | **Bangladesh's 1st zero-latency Bengali keyboard engine for Mac.** Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero lag, instant switching, and native macOS integration. | `Desktop Software` `macOS Engine` `Typographic Architecture` |
-| **✒️ Vector Toolkit Pro** | **Professional Illustrator automation suite.** Streamlines complex vector workflows, automated batch alignment, prepress color separation, and high-precision packaging geometry. | `Adobe Illustrator Ext` `Automation` `Prepress Engineering` |
-| **🖥️ DisplayFlow** | **Next-generation macOS display & workspace manager.** Designed for creative professionals and developers to optimize multi-monitor setups, color profiles, and system window flows. | `macOS Utility` `Performance` `Developer Tooling` |
-| **🛍️ Shop Cherlina** | **E-Commerce & Brand Platform.** Founder and Lead Full-Stack Architect, delivering end-to-end brand identity, custom storefront development, and scalable cloud infrastructure. | `Founder` `Next.js / React` `E-Commerce Architecture` |
-| **🤖 Autonomous AI Multi-Agent Systems** | Production-ready AI agent pipelines, multi-model orchestration, task automation, and intelligent developer tooling. | `Applied AI` `Python` `LLM Pipelines` |
+| **ColorLab Workspace (ERP OS)** | **Unified industrial ERP & automated production management suite.** Built for printing presses and manufacturing: automated diary costing, keyring production pipeline, paper layout optimization, client CRM, invoicing, and real-time cash flow financial ledger. | `Enterprise ERP` `Full-Stack SaaS` `Financial Ledger` |
+| **Borno for macOS** | **Bangladesh's 1st zero-latency Bengali keyboard engine for Mac.** Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero lag, instant switching, and native macOS integration. | `Desktop Software` `macOS Engine` `Typographic Architecture` |
+| **Vector Toolkit Pro** | **Professional Illustrator automation suite.** Streamlines complex vector workflows, automated batch alignment, prepress color separation, and high-precision packaging geometry. | `Adobe Illustrator Ext` `Automation` `Prepress Engineering` |
+| **DisplayFlow** | **Next-generation macOS display & workspace manager.** Designed for creative professionals and developers to optimize multi-monitor setups, color profiles, and system window flows. | `macOS Utility` `Performance` `Developer Tooling` |
+| **Shop Cherlina** | **E-Commerce & Brand Platform.** Founder and Lead Full-Stack Architect, delivering end-to-end brand identity, custom storefront development, and scalable cloud infrastructure. | `Founder` `Next.js / React` `E-Commerce Architecture` |
+| **Autonomous AI Multi-Agent Systems** | Production-ready AI agent pipelines, multi-model orchestration, task automation, and intelligent developer tooling. | `Applied AI` `Python` `LLM Pipelines` |
 
 ---
 
-### 💼 Leadership & 8+ Years Industry Track Record
+### Leadership & 8+ Years Industry Track Record
 
 ```typescript
 interface LeadershipProfile {
@@ -61,19 +61,19 @@ interface LeadershipProfile {
     "Engineered custom automation tooling for Adobe Creative Cloud reducing repetitive design overhead by 80%",
     "Built and shipped full-stack web applications and AI-driven platforms from scratch"
   ];
-  availability: "🟢 Open for Senior Engineering Roles, AI Systems Architecture & High-Impact Consulting";
+  availability: "Available for Senior Engineering Roles, AI Systems Architecture & High-Impact Consulting";
 }
 ```
 
 ---
 
-### ⚡ The Hybrid Advantage (Why Work With Me?)
+### The Hybrid Advantage (Why Work With Me?)
 
 Most engineering teams suffer from a severe disconnect between design and software development. Having spent **8+ years directing brand design, manufacturing, and ERP systems at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I bridge the entire spectrum:
 
-* 🎯 **Zero Design-Dev Bottleneck**: Pixel-perfect translation from Adobe Creative Cloud into production-grade Next.js & React code.
-* 🤖 **AI-Augmented Velocity**: Deploying autonomous agent pipelines and intelligent tools that 10x shipping speed.
-* 🛡️ **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Industrial ERP/Software ➔ Full-Stack Production Cloud Scale.
+* **Zero Design-Dev Bottleneck**: Pixel-perfect translation from Adobe Creative Cloud into production-grade Next.js & React code.
+* **AI-Augmented Velocity**: Deploying autonomous agent pipelines and intelligent tools that 10x shipping speed.
+* **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Industrial ERP/Software ➔ Full-Stack Production Cloud Scale.
 
 ```
 ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
@@ -84,11 +84,11 @@ Most engineering teams suffer from a severe disconnect between design and softwa
 
 ---
 
-### 🛠️ Technical & Creative Capabilities
+### Technical & Creative Capabilities
 
 <div align="center">
 
-#### 🤖 Applied AI & Engineering
+#### Applied AI & Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
   <img src="https://img.shields.io/badge/AI_Agents-18181b?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI Agents" />
@@ -96,7 +96,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
   <img src="https://img.shields.io/badge/Prompt_Engineering-18181b?style=for-the-badge&logo=google&logoColor=ffffff" alt="Prompt Engineering" />
 </p>
 
-#### 🌐 Frontend & Full-Stack Development
+#### Frontend & Full-Stack Development
 <p>
   <img src="https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
@@ -107,7 +107,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
   <img src="https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend, Databases & Cloud
+#### Backend, Databases & Cloud
 <p>
   <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
@@ -117,7 +117,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
   <img src="https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="REST" />
 </p>
 
-#### 🎨 Graphic Design & Total Print Solutions
+#### Graphic Design & Total Print Solutions
 <p>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-18181b?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-18181b?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff" alt="Illustrator" />
@@ -127,7 +127,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
   <img src="https://img.shields.io/badge/Typography_Systems-18181b?style=for-the-badge&logo=font-awesome&logoColor=ffffff" alt="Typography" />
 </p>
 
-#### 🎬 Video Editing & Motion Graphics
+#### Video Editing & Motion Graphics
 <p>
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-18181b?style=for-the-badge&logo=adobepremierepro&logoColor=ffffff" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Adobe_After_Effects-18181b?style=for-the-badge&logo=adobeaftereffects&logoColor=ffffff" alt="After Effects" />
@@ -135,7 +135,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
   <img src="https://img.shields.io/badge/Color_Grading-18181b?style=for-the-badge&logo=davinciresolve&logoColor=ffffff" alt="Color Grading" />
 </p>
 
-#### 🧰 Workflow & DevOps
+#### Workflow & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
@@ -148,7 +148,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
 
 ---
 
-### 📊 Engineering Metrics & Activity
+### Engineering Metrics & Activity
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Most engineering teams suffer from a severe disconnect between design and softwa
 
 ---
 
-### 🌐 Featured Portfolios & Direct Contact
+### Portfolios & Direct Contact
 
 <div align="center">
 
