@@ -7,7 +7,7 @@
   <p align="center">
     <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <strong>Creative &amp; Brand Solutions Director</strong>
     <br>
-    <em>Architecting Autonomous AI Systems, Modern Web Applications &amp; High-Impact Brand Identities</em>
+    <em>Bridging Intelligent Software Systems, End-to-End Brand Design, Print Architecture &amp; Motion Graphics</em>
   </p>
 
   <!-- Connect / Social Badges (Apple Minimal Dark with White Icons) -->
@@ -21,6 +21,33 @@
   </p>
 
 </div>
+
+---
+
+### 💻 Interactive Terminal Card
+
+Run this command in your terminal to view my interactive digital card:
+
+```bash
+npx yahiabinzaman
+```
+
+---
+
+### ⚡ The Hybrid Advantage (Why Work With Me?)
+
+Most software teams struggle with the gap between engineering and design. As a **Hybrid Applied AI Engineer & Creative Director**, I eliminate design-to-code bottlenecks and ship complete products end-to-end:
+
+* 🎯 **Zero Design-Dev Bottleneck**: Seamless transition from Adobe Creative Suite brand systems directly into pixel-perfect Next.js/React code.
+* 🤖 **AI-Augmented Velocity**: Architecting multi-agent workflows and autonomous LLM pipelines that 10x engineering velocity.
+* 🛡️ **Full Lifecycle Execution**: Taking a raw concept through Brand Identity ➔ Print/Packaging ➔ Full-Stack Software ➔ Production Deployment.
+
+```
+┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
+│  1. Strategy & Vision  │ ──>  │  2. Brand & Visual UI  │ ──>  │ 3. AI Agents & Backend │ ──>  │ 4. Next.js Deployment  │
+│  Architecture & Scope  │      │  Photoshop/Illustrator │      │ Python, Node, Cloud DB │      │ Global Production Scale│
+└────────────────────────┘      └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
+```
 
 ---
 
@@ -121,9 +148,18 @@ interface ProfessionalProfile {
 
 ---
 
-### 📊 Engineering Metrics & Activity
+### 📊 Engineering Metrics & Contribution Activity
 
 <div align="center">
+
+  <!-- Contribution Snake Animation -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yahiabinzaman/yahiabinzaman/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yahiabinzaman/yahiabinzaman/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yahiabinzaman/yahiabinzaman/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </picture>
+  </p>
 
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=yahiabinzaman&theme=dark&hide_border=true&background=18181b&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff" alt="GitHub Streak" />
