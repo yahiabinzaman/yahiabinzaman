@@ -36,39 +36,13 @@ npx github:yahiabinzaman/yahiabinzaman
 
 ### Flagship Products & Built Systems
 
-#### 1. ColorLab Workspace (Industrial ERP & Costing OS)
-* **Domain**: `Enterprise ERP` • `Full-Stack SaaS` • `Financial Ledger` • `Manufacturing Pipeline`
-* **Core Capabilities**:
-  * **Automated Production & Costing**: Instant diary costing engine, keyring production pipeline, and raw material pricing calculator.
-  * **Layout Optimizer**: High-precision paper cutting and sheet layout optimizer for industrial offset printing.
-  * **Financial Ledger & CRM**: Live cash flow management, revenue tracking, pending dues recovery, customer memos, and client database.
-  * **Real-time Pipeline**: Dynamic multi-stage order tracking from design approval to delivery.
-
-#### 2. Borno for macOS (Native Bengali Keyboard Engine)
-* **Domain**: `macOS Software` • `Input Method Engine` • `Typographic Architecture`
-* **Core Capabilities**:
-  * **First Zero-Latency Bengali Engine for Mac**: Engineered specifically for high-speed typing with zero input delay.
-  * **Dual Engine Typing**: Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero layout switching friction.
-  * **Native macOS Integration**: Built to work natively across all macOS software suites (Adobe, Microsoft Office, Browsers, IDEs).
-
-#### 3. Vector Toolkit Pro (Adobe Illustrator Automation Suite)
-* **Domain**: `Automation Scripting` • `Vector Optimization` • `Prepress Engineering`
-* **Core Capabilities**:
-  * **Automated Alignment & Geometry**: Single-click multi-artboard auto-align, bounding box normalization, and anchor point cleanup.
-  * **Prepress Color Separation**: Automated spot color management, CMYK plate verification, and plate layout generation.
-  * **Batch Asset Export**: High-velocity SVG, PDF, and high-resolution print export pipelines.
-
-#### 4. DisplayFlow (macOS Display & Workspace Manager)
-* **Domain**: `macOS Utility` • `Developer Tooling` • `System Performance`
-* **Core Capabilities**:
-  * **Multi-Monitor Flow Control**: Rapid display resolution switching, color profile management, and workspace window snapping.
-  * **Optimized for Creators**: Built specifically for designers and engineers handling color-critical displays and complex multi-window setups.
-
-#### 5. Shop Cherlina (Modern E-Commerce Platform)
-* **Domain**: `Founder` • `Next.js / React Architecture` • `Brand Identity`
-* **Core Capabilities**:
-  * **End-to-End Storefront**: Custom designed brand identity, modern shopping interface, and responsive product catalog.
-  * **Cloud Infrastructure**: Scalable cloud database backend, order management, and fast checkout experience.
+| Product & Role | Architecture & Stack | Key Capabilities & Technical Impact |
+| :--- | :--- | :--- |
+| **ColorLab Workspace**<br><sub>Industrial ERP OS</sub> | `Enterprise ERP`<br>`Full-Stack SaaS`<br>`Financial Ledger` | • **Automated Production & Costing**: Real-time diary costing, keyring manufacturing & raw material pricing engine.<br>• **Paper Layout Optimizer**: Intelligent paper cutting & offset sheet layout optimization.<br>• **Financial CRM & Ledger**: Live cash flow, revenue tracking, pending dues recovery & customer memos. |
+| **Borno for macOS**<br><sub>Native Keyboard Engine</sub> | `macOS Native`<br>`Input Engine`<br>`Typography` | • **Zero Latency**: Bangladesh's 1st zero-lag Bengali keyboard engine built specifically for Mac.<br>• **Dual Engine Typing**: Simultaneous Unicode & Bijoy (ANSI) typing with zero layout switching friction.<br>• **Native macOS Integration**: Universal compatibility across Adobe, Microsoft Office, Browsers & IDEs. |
+| **Vector Toolkit Pro**<br><sub>Illustrator Automation</sub> | `Adobe Ext`<br>`Automation Script`<br>`Prepress Suite` | • **Automated Alignment**: Single-click multi-artboard auto-align, bounding box normalization & anchor cleanup.<br>• **Prepress Color Separation**: Automated spot color management & CMYK plate verification.<br>• **Batch Asset Export**: High-velocity SVG, PDF & high-resolution print production pipelines. |
+| **DisplayFlow**<br><sub>macOS Display Manager</sub> | `macOS Utility`<br>`Developer Tools`<br>`Performance` | • **Multi-Monitor Flow Control**: Rapid display resolution & color profile management.<br>• **Optimized for Creators**: Streamlined workspace window snapping for designers and software engineers. |
+| **Shop Cherlina**<br><sub>E-Commerce Platform</sub> | `Founder`<br>`Next.js / React`<br>`Cloud Database` | • **Custom Storefront**: End-to-end brand identity architecture, custom shopping interface & responsive catalog.<br>• **Cloud Infrastructure**: Scalable cloud database backend, order processing & frictionless checkout. |
 
 ---
 
