@@ -7,7 +7,7 @@
   <p align="center">
     <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <strong>Creative &amp; Brand Solutions Director</strong>
     <br>
-    <em>Bridging Intelligent Software Systems, End-to-End Brand Design, Print Architecture &amp; Motion Graphics</em>
+    <em>Managing Incharge @ Colorlab (8+ Years) • Creator of Borno for Mac, Vector Toolkit Pro &amp; DisplayFlow</em>
   </p>
 
   <!-- Connect / Social Badges (Apple Minimal Dark with White Icons) -->
@@ -26,7 +26,7 @@
 
 ### 💻 Interactive Terminal Card
 
-Run this command in any terminal to view my interactive digital business card:
+Run this command in any terminal to view my interactive digital card:
 
 ```bash
 npx github:yahiabinzaman/yahiabinzaman
@@ -34,53 +34,51 @@ npx github:yahiabinzaman/yahiabinzaman
 
 ---
 
-### ⚡ The Hybrid Advantage (Why Work With Me?)
+### 🚀 Flagship Innovations & Built Products
 
-Most software teams struggle with the gap between engineering and design. As a **Hybrid Applied AI Engineer & Creative Director**, I eliminate design-to-code bottlenecks and ship complete products end-to-end:
-
-* 🎯 **Zero Design-Dev Bottleneck**: Seamless transition from Adobe Creative Suite brand systems directly into pixel-perfect Next.js/React code.
-* 🤖 **AI-Augmented Velocity**: Architecting multi-agent workflows and autonomous LLM pipelines that 10x engineering velocity.
-* 🛡️ **Full Lifecycle Execution**: Taking a raw concept through Brand Identity ➔ Print/Packaging ➔ Full-Stack Software ➔ Production Deployment.
-
-```
-┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
-│  1. Strategy & Vision  │ ──>  │  2. Brand & Visual UI  │ ──>  │ 3. AI Agents & Backend │ ──>  │ 4. Next.js Deployment  │
-│  Architecture & Scope  │      │  Photoshop/Illustrator │      │ Python, Node, Cloud DB │      │ Global Production Scale│
-└────────────────────────┘      └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-```
+| Innovation & Product | Description & Impact | Architecture & Domain |
+| :--- | :--- | :--- |
+| **⌨️ Borno for macOS** | **Bangladesh's 1st zero-latency Bengali keyboard engine for Mac.** Seamlessly writes both **Unicode & Bijoy (ANSI)** simultaneously with zero lag, instant switching, and native macOS integration. | `Desktop Software` `macOS Engine` `Typographic Architecture` |
+| **✒️ Vector Toolkit Pro** | **Professional Illustrator automation suite.** Streamlines complex vector workflows, automated batch alignment, prepress color separation, and high-precision packaging geometry. | `Adobe Illustrator Ext` `Automation` `Prepress Engineering` |
+| **🖥️ DisplayFlow** | **Next-generation macOS display & workspace manager.** Designed for creative professionals and developers to optimize multi-monitor setups, color profiles, and system window flows. | `macOS Utility` `Performance` `Developer Tooling` |
+| **🛍️ Shop Cherlina** | **E-Commerce & Brand Platform.** Founder and Lead Full-Stack Architect, delivering end-to-end brand identity, custom storefront development, and scalable cloud infrastructure. | `Founder` `Next.js / React` `E-Commerce Architecture` |
+| **🤖 Autonomous AI Multi-Agent Systems** | Production-ready AI agent pipelines, multi-model orchestration, task automation, and intelligent developer tooling. | `Applied AI` `Python` `LLM Pipelines` |
 
 ---
 
-### 💼 Executive Overview
+### 💼 Leadership & 8+ Years Industry Track Record
 
 ```typescript
-interface ProfessionalProfile {
+interface LeadershipProfile {
   name: "Yahia Bin Zaman";
-  roles: [
-    "Applied AI & Full-Stack Software Engineer",
-    "Brand Identity & Complete Print Solutions Specialist",
-    "Video Editor & Motion Designer"
+  experience: "8+ Years in Graphic Design, Brand Architecture & Technical Leadership";
+  currentPosition: "Managing Incharge @ Colorlab (Former Managing Director)";
+  coreImpact: [
+    "Directed full-scale brand identity, prepress manufacturing & publication design for enterprise clients",
+    "Pioneered zero-latency macOS software solutions for the Bengali typography & creative ecosystem",
+    "Engineered custom automation tooling for Adobe Creative Cloud reducing repetitive design overhead by 80%",
+    "Built and shipped full-stack web applications and AI-driven platforms from scratch"
   ];
-  coreDisciplines: {
-    engineering: ["Autonomous AI Agents", "Next.js / React Architecture", "REST APIs", "Cloud & Databases"],
-    designAndPrint: ["Complete Brand Identity", "Prepress & Publication Design", "Typography Systems", "Packaging"],
-    videoAndMotion: ["Cinematic Video Editing", "Motion Graphics", "Color Grading", "Visual Storytelling"]
-  };
-  availability: "🟢 Open for Full-time Roles, Strategic Consulting & High-Impact Creative Projects";
+  availability: "🟢 Open for Senior Engineering Roles, AI Systems Architecture & High-Impact Consulting";
 }
 ```
 
 ---
 
-### 🌟 Featured Works & Case Studies
+### ⚡ The Hybrid Advantage (Why Work With Me?)
 
-| Project & Domain | Description & Architecture | Tech Stack & Links |
-| :--- | :--- | :--- |
-| **⌨️ Open Borno Keyboard** | Next-generation Bengali input engine with custom typing layouts and intuitive user experience. | `JavaScript` `Desktop App` `UI/UX`<br>[📂 View Repository](https://github.com/yahiabinzaman) |
-| **🤖 Autonomous AI Agents & Workflows** | Orchestrating multi-agent LLM systems, intelligent code tools, and autonomous task execution pipelines. | `Python` `AI Agents` `LLMs`<br>[⚡ Explore Projects](https://github.com/yahiabinzaman) |
-| **🌐 Full-Stack Modern Web Applications** | Production-ready, ultra-responsive web applications built with scalable frontend & cloud databases. | `Next.js` `React` `TypeScript` `PostgreSQL`<br>[🚀 View Live Repos](https://github.com/yahiabinzaman) |
-| **🎨 Complete Brand & Print Solutions** | End-to-end brand identity architecture, prepress print production, packaging, and custom typography. | `Photoshop` `Illustrator` `InDesign`<br>[🎨 View Behance Portfolio](https://www.behance.net/yahiamahmud) |
-| **🎬 Motion Design & Video Editing** | High-velocity video editing, commercial motion graphics, and cinematic color grading. | `Premiere Pro` `After Effects`<br>[🎬 Case Studies](https://www.behance.net/yahiamahmud) |
+Most engineering teams suffer from a severe disconnect between design and software development. Having spent **8+ years directing brand design and prepress architecture at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I bridge the entire spectrum:
+
+* 🎯 **Zero Design-Dev Bottleneck**: Pixel-perfect translation from Adobe Creative Cloud into production-grade Next.js & React code.
+* 🤖 **AI-Augmented Velocity**: Deploying autonomous agent pipelines and intelligent tools that 10x shipping speed.
+* 🛡️ **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Prepress Packaging ➔ Full-Stack Software ➔ Production Cloud Scale.
+
+```
+┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
+│  1. Strategy & Vision  │ ──>  │ 2. Brand & Visual UI   │ ──>  │ 3. AI Agents & Backend │ ──>  │ 4. Production Scale    │
+│  Leadership & Scope    │      │ Adobe Illustrator/PSD  │      │ Python, Node, Cloud DB │      │ Next.js Global Cloud   │
+└────────────────────────┘      └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
+```
 
 ---
 
@@ -148,18 +146,9 @@ interface ProfessionalProfile {
 
 ---
 
-### 📊 Engineering Metrics & Contribution Activity
+### 📊 Engineering Metrics & Activity
 
 <div align="center">
-
-  <!-- Contribution Snake Animation -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yahiabinzaman/yahiabinzaman/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yahiabinzaman/yahiabinzaman/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yahiabinzaman/yahiabinzaman/output/github-contribution-grid-snake-dark.svg" width="100%" />
-    </picture>
-  </p>
 
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=yahiabinzaman&theme=dark&hide_border=true&background=18181b&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff" alt="GitHub Streak" />

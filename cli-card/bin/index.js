@@ -1,12 +1,11 @@
 #!/usr/bin/env node
 
-// ANSI Colors
+// ANSI Styling
 const RESET = "\x1b[0m";
 const BOLD = "\x1b[1m";
 const DIM = "\x1b[2m";
-const ITALIC = "\x1b[3m";
 
-// Custom TrueColor / 256 Colors
+// Premium Hex Colors
 const CYAN = "\x1b[38;2;56;189;248m";
 const VIOLET = "\x1b[38;2;168;85;247m";
 const EMERALD = "\x1b[38;2;52;211;153m";
@@ -14,12 +13,36 @@ const WHITE = "\x1b[38;2;248;250;252m";
 const SILVER = "\x1b[38;2;203;213;225m";
 const MUTED = "\x1b[38;2;100;116;139m";
 const ACCENT = "\x1b[38;2;10;132;255m";
+const AMBER = "\x1b[38;2;251;191;36m";
 
-function stripAnsi(str) {
-  return str.replace(/\x1b\[[0-9;]*m/g, "");
+// Precise Terminal Column Width Calculator
+function getCharWidth(char) {
+  const code = char.codePointAt(0);
+  if (!code) return 0;
+  // Zero-width control characters
+  if (code < 32 || (code >= 0x7F && code < 0xA0)) return 0;
+  // Wide emojis & symbols
+  if (
+    (code >= 0x1F300 && code <= 0x1FAFF) ||
+    (code >= 0x2600 && code <= 0x27BF) ||
+    (code >= 0x2300 && code <= 0x23FF) ||
+    ["⚡", "●", "🟢", "✓", "✔", "⌨", "🚀", "🎨", "🛠", "💼"].includes(char)
+  ) {
+    return 2;
+  }
+  return 1;
 }
 
-function printBox(lines, width = 74) {
+function getStringWidth(str) {
+  const clean = str.replace(/\x1b\[[0-9;]*m/g, "");
+  let width = 0;
+  for (const char of clean) {
+    width += getCharWidth(char);
+  }
+  return width;
+}
+
+function printBox(lines, width = 80) {
   const top = `${ACCENT}╭${"─".repeat(width)}╮${RESET}`;
   const bottom = `${ACCENT}╰${"─".repeat(width)}╯${RESET}`;
   const divider = `${ACCENT}├${"─".repeat(width)}┤${RESET}`;
@@ -29,8 +52,8 @@ function printBox(lines, width = 74) {
     if (line === "---") {
       console.log(divider);
     } else {
-      const plain = stripAnsi(line);
-      const padding = Math.max(0, width - plain.length - 2);
+      const visualWidth = getStringWidth(line);
+      const padding = Math.max(0, width - visualWidth - 2);
       console.log(`${ACCENT}│${RESET} ${line}${" ".repeat(padding)} ${ACCENT}│${RESET}`);
     }
   }
@@ -39,8 +62,8 @@ function printBox(lines, width = 74) {
 
 const content = [
   `${BOLD}${WHITE}  ⚡ YAHIA BIN ZAMAN${RESET}`,
-  `  ${CYAN}Applied AI & Full-Stack Engineer${RESET} ${MUTED}|${RESET} ${VIOLET}Brand & Print Director${RESET}`,
-  `  ${DIM}Architecting Autonomous AI Systems & Scalable Digital Products${RESET}`,
+  `  ${CYAN}Applied AI & Full-Stack Engineer${RESET} ${MUTED}|${RESET} ${VIOLET}Creative & Brand Director${RESET}`,
+  `  ${DIM}Managing Incharge @ Colorlab (8+ Years) | Open-Source Systems Creator${RESET}`,
   "---",
   `  ${BOLD}${SILVER}GitHub    :${RESET} ${WHITE}https://github.com/yahiabinzaman${RESET}`,
   `  ${BOLD}${SILVER}LinkedIn  :${RESET} ${WHITE}https://linkedin.com/in/yahia-mahmud-b4095b354${RESET}`,
@@ -49,14 +72,18 @@ const content = [
   `  ${BOLD}${SILVER}Instagram :${RESET} ${WHITE}https://instagram.com/yahiabinzaman_official${RESET}`,
   `  ${BOLD}${SILVER}Email     :${RESET} ${EMERALD}yahiamahmud10@gmail.com${RESET}`,
   "---",
-  `  ${BOLD}${CYAN}Core Domains:${RESET}`,
-  `  ${EMERALD}●${RESET} ${BOLD}Applied AI${RESET}      ${MUTED}❯${RESET} Autonomous Agents, LLM Pipelines, Automation`,
-  `  ${CYAN}●${RESET} ${BOLD}Full-Stack${RESET}      ${MUTED}❯${RESET} Next.js, React, TypeScript, Node.js, Cloud DBs`,
-  `  ${VIOLET}●${RESET} ${BOLD}Brand & Print${RESET}   ${MUTED}❯${RESET} Visual Identity, Prepress, Typography, Packaging`,
-  `  ${WHITE}●${RESET} ${BOLD}Motion Design${RESET}   ${MUTED}❯${RESET} Premiere Pro, After Effects, Cinematic Edits`,
+  `  ${BOLD}${AMBER}🚀 Flagship Innovations & Built Products:${RESET}`,
+  `  ${CYAN}● Borno for macOS${RESET}       ${MUTED}❯${RESET} 1st zero-latency Unicode + Bijoy keyboard for Mac`,
+  `  ${VIOLET}● Vector Toolkit Pro${RESET}    ${MUTED}❯${RESET} Advanced automation & prepress suite for Illustrator`,
+  `  ${EMERALD}● DisplayFlow${RESET}           ${MUTED}❯${RESET} High-performance macOS display & workspace utility`,
+  `  ${WHITE}● Shop Cherlina${RESET}         ${MUTED}❯${RESET} Founder & Lead Full-Stack E-Commerce Architect`,
   "---",
-  `  ${BOLD}${EMERALD}Status:${RESET} 🟢 ${BOLD}Available for Full-time Roles, AI Consulting & Projects${RESET}`,
-  `  ${DIM}Quick Run: npx github:yahiabinzaman/yahiabinzaman${RESET}`
+  `  ${BOLD}${CYAN}🛠️ Core Superpowers & Leadership:${RESET}`,
+  `  ${SILVER}• 8+ Years Design Leadership @ Colorlab (Managing Incharge / Ex-MD)${RESET}`,
+  `  ${SILVER}• End-to-End Hybrid Engineering: Adobe Prepress & Brand ➔ AI & Next.js${RESET}`,
+  "---",
+  `  ${BOLD}${EMERALD}Status:${RESET} 🟢 ${BOLD}Available for Senior Roles, High-Impact AI & Brand Consulting${RESET}`,
+  `  ${DIM}Run anytime: npx github:yahiabinzaman/yahiabinzaman${RESET}`
 ];
 
-printBox(content, 78);
+printBox(content, 84);

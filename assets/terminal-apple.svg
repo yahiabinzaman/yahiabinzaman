@@ -23,7 +23,7 @@
   <style>
     .sf-mono {
       font-family: -apple-system-monospaced, 'SF Mono', 'Monaco', 'Menlo', 'Courier New', monospace;
-      font-size: 13.5px;
+      font-size: 13px;
       letter-spacing: -0.2px;
     }
     
@@ -61,46 +61,49 @@
 
   <!-- Window Header Title -->
   <text x="425" y="26" fill="#8e8e93" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="12px" font-weight="500" text-anchor="middle">
-    yahia@macbook-pro: ~/creative-engineering-hub (zsh)
+    yahia@macbook-pro: ~/innovations (zsh)
   </text>
 
   <!-- LINE 1 (y = 85) -->
   <text x="32" y="85" class="sf-mono line1">
     <tspan fill="#0a84ff" font-weight="600">❯ </tspan>
-    <tspan fill="#f5f5f7" font-weight="600">initialize </tspan>
-    <tspan fill="#98989d">--identity=</tspan>
-    <tspan fill="#ffffff">"Yahia Bin Zaman" </tspan>
-    <tspan fill="#30d158">--mode=production</tspan>
+    <tspan fill="#f5f5f7" font-weight="600">whoami </tspan>
+    <tspan fill="#98989d">--experience=</tspan>
+    <tspan fill="#30d158">"8+ Years @ Colorlab" </tspan>
+    <tspan fill="#98989d">--role=</tspan>
+    <tspan fill="#ffffff">"Managing Incharge &amp; AI Engineer"</tspan>
   </text>
 
   <!-- LINE 2 (y = 128) -->
   <text x="32" y="128" class="sf-mono line2">
-    <tspan fill="#636366">[SYSTEM]: </tspan>
-    <tspan fill="#f5f5f7" font-weight="600">Applied AI &amp; Full-Stack Engineer | Brand &amp; Creative Director</tspan>
+    <tspan fill="#636366">[FLAGSHIP]: </tspan>
+    <tspan fill="#38bdf8" font-weight="600">Borno for Mac (0-Lag Unicode+Bijoy) </tspan>
+    <tspan fill="#636366">| </tspan>
+    <tspan fill="#c084fc">Vector Toolkit Pro </tspan>
+    <tspan fill="#636366">| </tspan>
+    <tspan fill="#34d399">DisplayFlow</tspan>
   </text>
 
   <!-- LINE 3 (y = 170) -->
   <text x="32" y="170" class="sf-mono line3">
-    <tspan fill="#636366">[MODULES]: </tspan>
-    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">AI Agents &amp; Full-Stack  </tspan>
-    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Brand Identity &amp; Print  </tspan>
-    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Video &amp; Motion</tspan>
+    <tspan fill="#636366">[EXPERTISE]: </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Applied AI &amp; Next.js </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Prepress &amp; Brand Systems </tspan>
+    <tspan fill="#30d158">✓ </tspan><tspan fill="#d1d1d6">Founder @ Shop Cherlina</tspan>
   </text>
 
   <!-- LINE 4 (y = 212) -->
   <text x="32" y="212" class="sf-mono line4">
     <tspan fill="#636366">[STATUS]: </tspan>
-    <tspan fill="#30d158" font-weight="600">● Open for Engineering Roles &amp; Creative Projects </tspan>
-    <tspan fill="#636366">| </tspan>
-    <tspan fill="#8e8e93">Top Quality</tspan>
+    <tspan fill="#30d158" font-weight="600">● Available for Senior Roles, AI Architecture &amp; Brand Consulting</tspan>
   </text>
 
   <!-- LINE 5 (y = 255) -->
   <text x="32" y="255" class="sf-mono line5">
     <tspan fill="#0a84ff" font-weight="600">❯ </tspan>
-    <tspan fill="#f5f5f7">crafting_next_generation_digital_and_brand_experiences</tspan>
+    <tspan fill="#f5f5f7">npx github:yahiabinzaman/yahiabinzaman</tspan>
   </text>
 
   <!-- Apple Terminal Blinking Cursor -->
-  <rect x="532" y="242" width="8" height="16" fill="#0a84ff" class="cursor-blink line5" />
+  <rect x="368" y="242" width="8" height="16" fill="#0a84ff" class="cursor-blink line5" />
 </svg>
