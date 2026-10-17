@@ -23,14 +23,13 @@
 
 ---
 
-### A little about me
+### About me
 
-I connect **software engineering, AI-powered automation and visual design** to create tools people enjoy using. Alongside building web and macOS applications, I bring **8+ years of experience** in graphic design, print production and creative operations at **Colorlab**.
+I'm Yahia, a software engineer and creative technologist based in Bangladesh. I build web apps, macOS utilities and automation tools, with a particular interest in making complicated workflows feel simple.
 
-- 🖥️ **Engineering:** Full-stack web apps, desktop utilities and practical AI workflows.
-- 🎨 **Design:** Brand identities, typography, Adobe workflows and production-ready visuals.
-- ⚙️ **Focus:** Removing repetitive work through thoughtful tools and automation.
-- 📍 **Based in:** Bangladesh.
+My background is in both software and visual design. Years of working with typography, print production and creative tools have shaped how I approach engineering: I care about the details, but I care just as much about whether something is genuinely useful to the person on the other side of the screen.
+
+These days, I'm exploring applied AI, building practical developer tools and turning everyday frustrations into small, thoughtful products. I enjoy taking an idea from a rough prototype to something people can actually use.
 
 ### Selected work
 
@@ -96,32 +95,33 @@ A software project exploring collaborative workflows.
 
 **Software & AI**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white)
+`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Git`
 
 **Design & creative production**
 
-![Photoshop](https://img.shields.io/badge/Photoshop-171717?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-171717?style=flat-square&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-171717?style=flat-square&logo=adobeindesign&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-171717?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-171717?style=flat-square&logo=adobepremierepro&logoColor=white)
+`Photoshop` · `Illustrator` · `InDesign` · `After Effects` · `Premiere Pro`
 
 ### GitHub activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&theme=github_dark" alt="GitHub contribution overview" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&amp;theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&amp;theme=default" alt="GitHub contribution overview" width="100%" />
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&theme=github_dark" alt="GitHub statistics" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&theme=github_dark" alt="Most used commit languages" width="49%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&amp;theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&amp;theme=default" alt="GitHub statistics" width="49%" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&amp;theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&amp;theme=default" alt="Most used commit languages" width="49%" />
+</picture>
 </div>
 
 ---
