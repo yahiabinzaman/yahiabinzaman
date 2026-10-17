@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-apple.svg" alt="Yahia Bin Zaman — Creative Technologist & Software Engineer" width="100%" />
+<img src="assets/identity-terminal.svg" alt="Yahia Bin Zaman — animated ASCII identity" width="100%" />
 
 <br/>
 
