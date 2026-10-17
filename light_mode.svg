@@ -1,34 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1221" height="766.4" viewBox="0 0 1221 766.4" role="img" aria-label="ASCII GitHub profile card for yahiabinzaman">
 <defs><style><![CDATA[
-/* Each line waits until the previous line finishes; full card holds, then resets. */
-@keyframes reveal0{0%,3.00%{width:0;opacity:1}8.60%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-0{animation:reveal0 16s steps(26,end) infinite;}
-@keyframes reveal1{0%,8.90%{width:0;opacity:1}14.50%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-1{animation:reveal1 16s steps(26,end) infinite;}
-@keyframes reveal2{0%,14.80%{width:0;opacity:1}20.40%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-2{animation:reveal2 16s steps(26,end) infinite;}
-@keyframes reveal3{0%,20.70%{width:0;opacity:1}26.30%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-3{animation:reveal3 16s steps(26,end) infinite;}
-@keyframes reveal4{0%,26.60%{width:0;opacity:1}32.20%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-4{animation:reveal4 16s steps(26,end) infinite;}
-@keyframes reveal5{0%,32.50%{width:0;opacity:1}38.10%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-5{animation:reveal5 16s steps(26,end) infinite;}
-@keyframes reveal6{0%,38.40%{width:0;opacity:1}44.00%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-6{animation:reveal6 16s steps(26,end) infinite;}
-@keyframes reveal7{0%,44.30%{width:0;opacity:1}49.90%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-7{animation:reveal7 16s steps(26,end) infinite;}
-@keyframes reveal8{0%,50.20%{width:0;opacity:1}55.80%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-8{animation:reveal8 16s steps(26,end) infinite;}
-@keyframes reveal9{0%,56.10%{width:0;opacity:1}61.70%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-9{animation:reveal9 16s steps(26,end) infinite;}
-@keyframes reveal10{0%,62.00%{width:0;opacity:1}67.60%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-10{animation:reveal10 16s steps(26,end) infinite;}
-@keyframes reveal11{0%,67.90%{width:0;opacity:1}73.50%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-11{animation:reveal11 16s steps(26,end) infinite;}
-@keyframes reveal12{0%,73.80%{width:0;opacity:1}79.40%,94%{width:610px;opacity:1}98%,100%{width:0;opacity:1}}
-.type-12{animation:reveal12 16s steps(26,end) infinite;}
-@keyframes caret {0%,49%{opacity:1}50%,100%{opacity:0}}
-.cursor{animation:caret 1s steps(1,end) infinite}
+/* Sequential typewriter: each line finishes before the next begins. */
+@keyframes seq0{0%,2.000%{width:0}7.000%,91%{width:610px}96%,100%{width:0}}
+.type-0{animation:seq0 24s steps(36,end) infinite;}
+@keyframes seq1{0%,7.600%{width:0}12.600%,91%{width:610px}96%,100%{width:0}}
+.type-1{animation:seq1 24s steps(36,end) infinite;}
+@keyframes seq2{0%,13.200%{width:0}18.200%,91%{width:610px}96%,100%{width:0}}
+.type-2{animation:seq2 24s steps(36,end) infinite;}
+@keyframes seq3{0%,18.800%{width:0}23.800%,91%{width:610px}96%,100%{width:0}}
+.type-3{animation:seq3 24s steps(36,end) infinite;}
+@keyframes seq4{0%,24.400%{width:0}29.400%,91%{width:610px}96%,100%{width:0}}
+.type-4{animation:seq4 24s steps(36,end) infinite;}
+@keyframes seq5{0%,30.000%{width:0}35.000%,91%{width:610px}96%,100%{width:0}}
+.type-5{animation:seq5 24s steps(36,end) infinite;}
+@keyframes seq6{0%,35.600%{width:0}40.600%,91%{width:610px}96%,100%{width:0}}
+.type-6{animation:seq6 24s steps(36,end) infinite;}
+@keyframes seq7{0%,41.200%{width:0}46.200%,91%{width:610px}96%,100%{width:0}}
+.type-7{animation:seq7 24s steps(36,end) infinite;}
+@keyframes seq8{0%,46.800%{width:0}51.800%,91%{width:610px}96%,100%{width:0}}
+.type-8{animation:seq8 24s steps(36,end) infinite;}
+@keyframes seq9{0%,52.400%{width:0}57.400%,91%{width:610px}96%,100%{width:0}}
+.type-9{animation:seq9 24s steps(36,end) infinite;}
+@keyframes seq10{0%,58.000%{width:0}63.000%,91%{width:610px}96%,100%{width:0}}
+.type-10{animation:seq10 24s steps(36,end) infinite;}
+@keyframes seq11{0%,63.600%{width:0}68.600%,91%{width:610px}96%,100%{width:0}}
+.type-11{animation:seq11 24s steps(36,end) infinite;}
+@keyframes seq12{0%,69.200%{width:0}74.200%,91%{width:610px}96%,100%{width:0}}
+.type-12{animation:seq12 24s steps(36,end) infinite;}
+@keyframes cursorblink{0%,49%{opacity:1}50%,100%{opacity:0}}.cursor{animation:cursorblink 1s steps(1,end) infinite}
 ]]></style><clipPath id="typing0"><rect x="636" y="176" width="610" height="30" class="type-line type-0"/></clipPath>
 <clipPath id="typing1"><rect x="636" y="208" width="610" height="30" class="type-line type-1"/></clipPath>
 <clipPath id="typing2"><rect x="636" y="234" width="610" height="30" class="type-line type-2"/></clipPath>
