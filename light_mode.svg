@@ -1,17 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1221" height="766.4" viewBox="0 0 1221 766.4" role="img" aria-label="ASCII GitHub profile card for yahiabinzaman">
-<defs><clipPath id="typing0"><rect x="636" y="176" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-0.00s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing1"><rect x="636" y="208" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-0.39s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing2"><rect x="636" y="234" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-0.78s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing3"><rect x="636" y="276" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-1.17s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing4"><rect x="636" y="302" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-1.56s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing5"><rect x="636" y="328" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-1.95s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing6"><rect x="636" y="370" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-2.34s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing7"><rect x="636" y="396" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-2.73s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing8"><rect x="636" y="422" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-3.12s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing9"><rect x="636" y="448" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-3.51s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing10"><rect x="636" y="490" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-3.90s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing11"><rect x="636" y="516" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-4.29s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="typing12"><rect x="636" y="542" width="0" height="30"><animate attributeName="width" values="0;0;610;610;0" keyTimes="0;0.08;0.55;0.88;1" dur="9s" begin="-4.68s" repeatCount="indefinite"/></rect></clipPath>
+<defs><style><![CDATA[
+@keyframes terminal-type {0%,8% {width:0} 48%,84% {width:610px} 94%,100% {width:0}}
+.type-line {animation:terminal-type 9s steps(38,end) infinite;}
+.type-0 {animation-delay:-0.00s;}
+.type-1 {animation-delay:-0.32s;}
+.type-2 {animation-delay:-0.64s;}
+.type-3 {animation-delay:-0.96s;}
+.type-4 {animation-delay:-1.28s;}
+.type-5 {animation-delay:-1.60s;}
+.type-6 {animation-delay:-1.92s;}
+.type-7 {animation-delay:-2.24s;}
+.type-8 {animation-delay:-2.56s;}
+.type-9 {animation-delay:-2.88s;}
+.type-10 {animation-delay:-3.20s;}
+.type-11 {animation-delay:-3.52s;}
+.type-12 {animation-delay:-3.84s;}
+@keyframes caret {0%,49%{opacity:1}50%,100%{opacity:0}}
+.cursor {animation:caret 1s steps(1,end) infinite}
+]]></style><clipPath id="typing0"><rect x="636" y="176" width="610" height="30" class="type-line type-0"/></clipPath>
+<clipPath id="typing1"><rect x="636" y="208" width="610" height="30" class="type-line type-1"/></clipPath>
+<clipPath id="typing2"><rect x="636" y="234" width="610" height="30" class="type-line type-2"/></clipPath>
+<clipPath id="typing3"><rect x="636" y="276" width="610" height="30" class="type-line type-3"/></clipPath>
+<clipPath id="typing4"><rect x="636" y="302" width="610" height="30" class="type-line type-4"/></clipPath>
+<clipPath id="typing5"><rect x="636" y="328" width="610" height="30" class="type-line type-5"/></clipPath>
+<clipPath id="typing6"><rect x="636" y="370" width="610" height="30" class="type-line type-6"/></clipPath>
+<clipPath id="typing7"><rect x="636" y="396" width="610" height="30" class="type-line type-7"/></clipPath>
+<clipPath id="typing8"><rect x="636" y="422" width="610" height="30" class="type-line type-8"/></clipPath>
+<clipPath id="typing9"><rect x="636" y="448" width="610" height="30" class="type-line type-9"/></clipPath>
+<clipPath id="typing10"><rect x="636" y="490" width="610" height="30" class="type-line type-10"/></clipPath>
+<clipPath id="typing11"><rect x="636" y="516" width="610" height="30" class="type-line type-11"/></clipPath>
+<clipPath id="typing12"><rect x="636" y="542" width="610" height="30" class="type-line type-12"/></clipPath>
 </defs>
   <rect x="0.5" y="0.5" width="1220" height="765.4" rx="8" fill="#ffffff" stroke="#d0d7de"/>
   <text x="28" y="34.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                                        _--___--_.</text>
@@ -104,5 +122,5 @@
   <rect x="28" y="0" width="581" height="2" fill="#0969da" opacity=".22"><animate attributeName="y" values="0;750;0" dur="9s" repeatCount="indefinite"/></rect>
   <circle cx="644" cy="600" r="4" fill="#0969da"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
   <text x="658" y="605" fill="#57606a" font-family="monospace" font-size="13">SYSTEM ONLINE  /  BUILDING USEFUL THINGS</text>
-<text x="636" y="625" fill="#0969da" font-family="monospace" font-size="15">&gt; <tspan>_</tspan><animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/></text>
+<text class="cursor" x="636" y="625" fill="#0969da" font-family="monospace" font-size="15">&gt; <tspan>_</tspan><animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/></text>
 </svg>
