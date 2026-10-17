@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/ascii-portrait-animated.svg" alt="Animated ASCII portrait" width="55%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Yahiabinzaman's GitHub ASCII profile" src="dark_mode.svg" width="100%" />
+</picture>
 
 <br/>
 
