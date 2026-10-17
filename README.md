@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/identity-terminal.svg" alt="Yahia Bin Zaman — animated ASCII identity" width="100%" />
+<img src="assets/ascii-portrait-animated.svg" alt="Animated ASCII portrait" width="55%" />
 
 <br/>
 
