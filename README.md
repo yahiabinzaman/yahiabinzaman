@@ -1,200 +1,135 @@
 <div align="center">
 
-  <!-- Apple macOS Terminal Header -->
-  <img src="assets/terminal-apple.svg" width="100%" alt="Yahia Bin Zaman - Terminal" style="border-radius: 12px; margin-bottom: 16px;" />
+<img src="assets/terminal-apple.svg" alt="Yahia Bin Zaman — Creative Technologist & Software Engineer" width="100%" />
 
-  <!-- Subtitle -->
-  <p align="center">
-    <strong>Applied AI &amp; Full-Stack Software Engineer</strong> • <strong>Creative &amp; Brand Solutions Director</strong>
-    <br>
-    <em>Managing Incharge @ Colorlab (8+ Years) • Creator of ColorLab Workspace, Borno for Mac, Vector Toolkit Pro &amp; DisplayFlow</em>
-  </p>
+<br/>
 
-  <!-- Connect / Social Badges (Apple Minimal Dark with White Icons) -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
-    <a href="https://www.behance.net/yahiamahmud" target="_blank"><img src="https://img.shields.io/badge/Behance-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=ffffff" alt="Behance" /></a>
-    <a href="https://github.com/yahiabinzaman" target="_blank"><img src="https://img.shields.io/badge/GitHub-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-    <a href="https://www.facebook.com/YahiaBinZaman" target="_blank"><img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" /></a>
-    <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
-    <a href="mailto:yahiamahmud10@gmail.com"><img src="https://img.shields.io/badge/Email-yahiamahmud10%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
-  </p>
+# Yahia Bin Zaman
+
+**Software Engineer · Applied AI · Creative Technologist**
+
+*Building useful software at the intersection of engineering, design and automation.*
+
+[![Portfolio](https://img.shields.io/badge/Explore-Projects-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/yahiabinzaman?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-mahmud-b4095b354/)
+[![Behance](https://img.shields.io/badge/View-Design_Work-111111?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/yahiamahmud)
+[![Email](https://img.shields.io/badge/Say-Hello-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:yahiamahmud10@gmail.com)
 
 </div>
 
 ---
 
-### Interactive Terminal Card
+### A little about me
 
-Run this command in any terminal to view my interactive digital card directly from GitHub:
+I connect **software engineering, AI-powered automation and visual design** to create tools people enjoy using. Alongside building web and macOS applications, I bring **8+ years of experience** in graphic design, print production and creative operations at **Colorlab**.
 
-```bash
-npx github:yahiabinzaman/yahiabinzaman
-```
+- 🖥️ **Engineering:** Full-stack web apps, desktop utilities and practical AI workflows.
+- 🎨 **Design:** Brand identities, typography, Adobe workflows and production-ready visuals.
+- ⚙️ **Focus:** Removing repetitive work through thoughtful tools and automation.
+- 📍 **Based in:** Bangladesh.
 
----
+### Selected work
 
-### Flagship Products & Built Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Product & Role | Architecture & Stack | Key Capabilities & Technical Impact |
-| :--- | :--- | :--- |
-| **ColorLab Workspace**<br><sub>Industrial ERP OS</sub> | `Enterprise ERP`<br>`Full-Stack SaaS`<br>`Financial Ledger` | • **Automated Production & Costing**: Real-time diary costing, keyring manufacturing & raw material pricing engine.<br>• **Paper Layout Optimizer**: Intelligent paper cutting & offset sheet layout optimization.<br>• **Financial CRM & Ledger**: Live cash flow, revenue tracking, pending dues recovery & customer memos. |
-| **Borno for macOS**<br><sub>Native Keyboard Engine</sub> | `macOS Native`<br>`Input Engine`<br>`Typography` | • **Zero Latency**: Bangladesh's 1st zero-lag Bengali keyboard engine built specifically for Mac.<br>• **Dual Engine Typing**: Simultaneous Unicode & Bijoy (ANSI) typing with zero layout switching friction.<br>• **Native macOS Integration**: Universal compatibility across Adobe, Microsoft Office, Browsers & IDEs. |
-| **Vector Toolkit Pro**<br><sub>Illustrator Automation</sub> | `Adobe Ext`<br>`Automation Script`<br>`Prepress Suite` | • **Automated Alignment**: Single-click multi-artboard auto-align, bounding box normalization & anchor cleanup.<br>• **Prepress Color Separation**: Automated spot color management & CMYK plate verification.<br>• **Batch Asset Export**: High-velocity SVG, PDF & high-resolution print production pipelines. |
-| **DisplayFlow**<br><sub>macOS Display Manager</sub> | `macOS Utility`<br>`Developer Tools`<br>`Performance` | • **Multi-Monitor Flow Control**: Rapid display resolution & color profile management.<br>• **Optimized for Creators**: Streamlined workspace window snapping for designers and software engineers. |
-| **Shop Cherlina**<br><sub>E-Commerce Platform</sub> | `Founder`<br>`Next.js / React`<br>`Cloud Database` | • **Custom Storefront**: End-to-end brand identity architecture, custom shopping interface & responsive catalog.<br>• **Cloud Infrastructure**: Scalable cloud database backend, order processing & frictionless checkout. |
+**[Borno Keyboard](https://github.com/yahiabinzaman/borno-keyboard)**
 
----
+A Bengali typing experience for macOS, built around creative and everyday workflows.
 
-### Leadership & 8+ Years Industry Track Record
+`macOS` `Bangla Typography` `Input Tools`
 
-```typescript
-interface LeadershipProfile {
-  name: "Yahia Bin Zaman";
-  experience: "8+ Years in Graphic Design, Industrial Prepress & Technical Leadership";
-  currentPosition: "Managing Incharge @ Colorlab (Former Managing Director)";
-  milestones: [
-    "Architected ColorLab Workspace — an ERP managing live industrial production, costing & financial ledgers",
-    "Pioneered Borno for Mac — the 1st zero-latency Bengali keyboard engine supporting Unicode & Bijoy simultaneously",
-    "Engineered Vector Toolkit Pro — automating Adobe Creative Cloud workflows and cutting prepress overhead by 80%",
-    "Directed enterprise brand identity, packaging, and commercial publication design for 8+ years",
-    "Shipped production-ready full-stack web applications and AI agent orchestration systems"
-  ];
-  status: "Available for Senior Roles, AI Architecture & High-Impact Brand Consulting";
-}
-```
+</td>
+<td width="50%" valign="top">
 
----
+**[DisplayFlow](https://github.com/yahiabinzaman/DisplayFlow)**
 
-### The Hybrid Advantage (Why Work With Me?)
+A display-management utility designed for a more seamless Mac workspace.
 
-Most engineering teams suffer from a severe disconnect between creative design and software architecture. Having spent **8+ years directing brand design, prepress manufacturing, and ERP systems at Colorlab** while simultaneously engineering **native desktop software, AI agent systems, and full-stack web applications**, I deliver full-lifecycle product ownership:
+`macOS` `Desktop Utility` `Productivity`
 
-* **Zero Design-Dev Bottleneck**: Pixel-perfect translation from Adobe Creative Cloud into production-grade Next.js & React code.
-* **AI-Augmented Velocity**: Deploying autonomous agent pipelines and intelligent tools that 10x shipping speed.
-* **End-to-End Ownership**: Concept ➔ Brand Identity ➔ Industrial ERP / Software ➔ Full-Stack Production Cloud Scale.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```
-┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
-│  1. Strategy & Vision  │ ──>  │ 2. Brand & Visual UI   │ ──>  │ 3. AI Agents & Backend │ ──>  │ 4. Production Scale    │
-│  Leadership & Scope    │      │ Adobe Illustrator/PSD  │      │ Python, Node, Cloud DB │      │ Next.js Global Cloud   │
-└────────────────────────┘      └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-```
+**[VectorGuard PDF Pro](https://github.com/yahiabinzaman/VectorGuard-PDF-Pro)**
 
----
+Tools for working with vector and PDF-focused design workflows.
 
-### Technical & Creative Capabilities
+`PDF` `Vector` `Creative Tools`
+
+</td>
+<td width="50%" valign="top">
+
+**[Teamworks.io](https://github.com/yahiabinzaman/Teamworks.io)**
+
+A software project exploring collaborative workflows.
+
+`Web App` `Collaboration` `Workflow`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More things I've been building</b></summary>
+
+<br/>
+
+- **ColorLab Workspace** — Production, costing and operations software for print workflows.
+- **Vector Toolkit Pro** — Automation utilities for Adobe Illustrator and prepress tasks.
+- **[Clean Mac](https://github.com/yahiabinzaman/Clean-Mac)** — A Mac-focused utility project.
+- **[Unicode Converter by Yaza](https://github.com/yahiabinzaman/Unicode-Converter-by-Yaza)** — Text conversion tooling.
+- **[Smart Clipboard Form Filler](https://github.com/yahiabinzaman/smart-clipboard-form-filler)** — Clipboard and form workflow automation.
+
+*Some projects are private or works in progress.*
+
+</details>
+
+### Tools & technologies
+
+**Software & AI**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white)
+
+**Design & creative production**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-171717?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-171717?style=flat-square&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-171717?style=flat-square&logo=adobeindesign&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-171717?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-171717?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+### GitHub activity
 
 <div align="center">
 
-#### Applied AI & Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/AI_Agents-18181b?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/LLM_Integration-18181b?style=for-the-badge&logo=anthropic&logoColor=ffffff" alt="LLM" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-18181b?style=for-the-badge&logo=google&logoColor=ffffff" alt="Prompt Engineering" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&theme=github_dark" alt="GitHub contribution overview" width="100%"/>
 
-#### Frontend & Full-Stack Development
-<p>
-  <img src="https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
-</p>
-
-#### Backend, Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-18181b?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="REST" />
-</p>
-
-#### Graphic Design & Total Print Solutions
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-18181b?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-18181b?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_InDesign-18181b?style=for-the-badge&logo=adobeindesign&logoColor=ffffff" alt="InDesign" />
-  <img src="https://img.shields.io/badge/Brand_Identity-18181b?style=for-the-badge&logo=adobe&logoColor=ffffff" alt="Brand Identity" />
-  <img src="https://img.shields.io/badge/Total_Print_Solutions-18181b?style=for-the-badge&logo=print&logoColor=ffffff" alt="Print Solutions" />
-  <img src="https://img.shields.io/badge/Typography_Systems-18181b?style=for-the-badge&logo=font-awesome&logoColor=ffffff" alt="Typography" />
-</p>
-
-#### Video Editing & Motion Graphics
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-18181b?style=for-the-badge&logo=adobepremierepro&logoColor=ffffff" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-18181b?style=for-the-badge&logo=adobeaftereffects&logoColor=ffffff" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Motion_Design-18181b?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Motion Design" />
-  <img src="https://img.shields.io/badge/Color_Grading-18181b?style=for-the-badge&logo=davinciresolve&logoColor=ffffff" alt="Color Grading" />
-</p>
-
-#### Workflow & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-18181b?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-18181b?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-18181b?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&theme=github_dark" alt="GitHub statistics" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&theme=github_dark" alt="Most used commit languages" width="49%"/>
 
 </div>
 
 ---
 
-### Engineering Metrics & Activity
-
 <div align="center">
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=yahiabinzaman&theme=dark&hide_border=true&background=18181b&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff" alt="GitHub Streak" />
-  </p>
+### Let's make something thoughtful.
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiabinzaman&theme=github_dark" alt="Profile Details" />
-  </p>
+I'm interested in software, automation and design projects that solve real problems.
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahiabinzaman&theme=github_dark" alt="GitHub Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahiabinzaman&theme=github_dark" alt="Top Languages" />
-  </p>
+[**Email**](mailto:yahiamahmud10@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/yahia-mahmud-b4095b354/) · [**Behance**](https://www.behance.net/yahiamahmud) · [**GitHub**](https://github.com/yahiabinzaman)
 
-</div>
+<sub>Designed with intention · Built by Yahia Bin Zaman</sub>
 
----
-
-### Portfolios & Direct Contact
-
-<div align="center">
-
-  <a href="https://www.behance.net/yahiamahmud" target="_blank">
-    <img src="https://img.shields.io/badge/Behance_Portfolio-yahiamahmud-18181b?style=for-the-badge&logo=behance&logoColor=ffffff" alt="Behance" />
-  </a>
-  <a href="https://www.linkedin.com/in/yahia-mahmud-b4095b354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-Yahia%20Mahmud-18181b?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yahiabinzaman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Projects-yahiabinzaman-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/YahiaBinZaman" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-YahiaBinZaman-18181b?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/yahiabinzaman_official/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@yahiabinzaman__official-18181b?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
-  </a>
-  <a href="mailto:yahiamahmud10@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-yahiamahmud10%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Direct Email" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Designed &amp; Maintained by <strong>Yahia Bin Zaman</strong></sub>
 </div>
