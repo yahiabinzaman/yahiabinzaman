@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=20261018line3" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=20261018line3" />
-  <img alt="Yahiabinzaman's GitHub ASCII profile" src="dark_mode.svg?v=20261018line3" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=20261018seq4" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=20261018seq4" />
+  <img alt="Yahiabinzaman's GitHub ASCII profile" src="dark_mode.svg?v=20261018seq4" width="100%" />
 </picture>
 
 <br/>
