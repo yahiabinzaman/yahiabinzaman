@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=20261018seq4" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=20261018seq4" />
-  <img alt="Yahiabinzaman's GitHub ASCII profile" src="dark_mode.svg?v=20261018seq4" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=20261018seq5" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=20261018seq5" />
+  <img alt="Yahiabinzaman's GitHub ASCII profile" src="dark_mode.svg?v=20261018seq5" width="100%" />
 </picture>
 
 <br/>
@@ -37,11 +37,11 @@ These days, I'm exploring applied AI, building practical developer tools and tur
 <tr>
 <td width="50%" valign="top">
 
-**[Borno Keyboard](https://github.com/yahiabinzaman/borno-keyboard)**
+**[Bengali Keyboard for Mac](https://github.com/yahiabinzaman/YazaType)**
 
 A Bengali typing experience for macOS, built around creative and everyday workflows.
 
-`macOS` `Bangla Typography` `Input Tools`
+`macOS` `Bengali Keyboard` `Bangla Typography` `Input Tools`
 
 </td>
 <td width="50%" valign="top">
